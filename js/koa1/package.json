@@ -1,0 +1,20 @@
+{
+  "name": "montanaKoa1",
+  "version": "1.0.0",
+  "description": "just a test",
+  "main": "koaStatic.js",
+  "dependencies": {
+    "co-busboy": "^1.4.0",
+    "co-router": "^1.0.5",
+    "koa": "^2.5.0",
+    "koa-logger": "^3.2.0",
+    "koa-route": "^3.2.0",
+    "koa-static": "^4.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
